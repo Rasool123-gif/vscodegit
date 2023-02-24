@@ -1,12 +1,8 @@
-# CSS: Scrolling and Parallax
+#Hello This is Hey
 
 This is the repository for the LinkedIn Learning course [CSS: Scrolling and Parallax](https://www.linkedin.com/learning/css-scrolling-and-parallax). The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/css-scrolling-and-parallax).
 
-Ray Villalobos demonstrates how to customize CSS for scrolling behaviors, create CSS animations, create scroll-based animations, use ScrollMagic, tween, and use the GreenSock Animation Platform (GSAP). He covers pseudo classes, elements, using transform properties, sequencing, parallax with JavaScript, and more.
-
 ## Instructions
-
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
 ## Branches
 
